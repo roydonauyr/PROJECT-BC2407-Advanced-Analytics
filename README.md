@@ -6,6 +6,10 @@ Files:
 - Project Report
 - Presenation Slides
 - Jupyter Notebook w/ Model Preparation and Machine Learning Code
+- Datasets were too large and could not be uploaded :(
+  - https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii
+  - https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/82xm-y6g8
+
 
 ## So what is the problem?
 
