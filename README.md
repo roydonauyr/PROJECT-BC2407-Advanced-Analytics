@@ -26,7 +26,7 @@ HealthMan is a privately owned healthcare consultancy specialising in the manage
 
 This approach uses **Machine Learning** Models to help doctors predict LOS by providing a benchmark value based on a wide range of hospital data.
 
-The models trialled were Multi-Adaptive Regression Splines (MARS), Classification and Regression Tree (CART), and Random Forest. For more details, please refer to our Python Notebook!
+The models trialled were **Multi-Adaptive Regression Splines (MARS), Classification and Regression Tree (CART), and Random Forest**. For more details, please refer to our Python Notebook!
 
 Based on the most **accurate, explainable, and easy to implement** model, we embed our predictions in a Hospital's EMR System for doctors to refer to in real-time during consultations.
 
