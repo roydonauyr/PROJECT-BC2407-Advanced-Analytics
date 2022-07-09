@@ -1,4 +1,3 @@
-# PROJECT-BC2407-Advanced-Predictive-Techniques
 Hello! We are Sem 3 Team 2 taught by Prof Eric Kwon! Our Project Title is Carity, and we hope to use analytics to bring clarity to Healthcare in Africa!
 
 Files:
