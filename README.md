@@ -1,3 +1,10 @@
+# Advanced Analytics to improve South African Hospitals
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics)
+![GitHub repo size](https://img.shields.io/github/repo-size/PROJECT-BC2407-Advanced-Analytics)
+![GitHub language count](https://img.shields.io/github/languages/count/PROJECT-BC2407-Advanced-Analytics)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/PROJECT-BC2407-Advanced-Analytics)
+
+
 Hello! We are Sem 3 Team 2 taught by Prof Eric Kwon! Our Project Title is Carity, and we hope to use analytics to bring clarity to Healthcare in Africa!
 
 Files:
